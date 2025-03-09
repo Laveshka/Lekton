@@ -1,3 +1,3 @@
 package exceptions
 
-class DepositValidationException(message: String) : RuntimeException(message);
+class DepositValidationException(message: String) : RuntimeException(message)
